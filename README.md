@@ -1,5 +1,3 @@
-# Zadanie- Monika Pytel, Martyna Rabikowska, Dominika Kozłowska, Sabrina Kitlińska
-Zadanie o zdobywaniu punktów w grze. 
 punkty = 0
 for i in range(5):
    print('podaj liczbe punktów z rundy', i + 1)
